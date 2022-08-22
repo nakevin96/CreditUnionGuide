@@ -1,7 +1,7 @@
 # Credit Union Intro
 
-<img src=".gitbook/assets/쌓여있는 책을 오르는 난쟁이(지식탐구).png" alt="" data-size="original">\
-\
+![Credit Union 메](.gitbook/assets/메인.png)
+
 **Credit Union**은 CU token을 이용해서 **계모임**(유니온)을 할 수 있는 **Dapp**입니다.\
 크게 스왑 페이지와 유니온 페이지로 구성되어 있습니다.\
 \
